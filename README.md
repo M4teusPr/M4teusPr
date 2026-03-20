@@ -75,7 +75,7 @@
   <br>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mateus-henrique-62a9ab302/)
-  [![Behance](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=behance&logoColor=fff)](https://www.behance.net/m4tsds)
+  [![Behance](https://img.shields.io/badge/Behance-123845?style=for-the-badge&logo=behance&logoColor=fff)](https://www.behance.net/m4tsds)
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mateushenriquemp123@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
