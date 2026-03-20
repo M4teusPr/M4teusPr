@@ -19,13 +19,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Front-End+Developer;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M4teusPr&theme=midnight_purple)
-     
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M4teusPr&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M4teusPr&theme=midnight_purple)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M4teusPr&theme=midnight_purple" width="800"/>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M4teusPr&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M4teusPr&theme=midnight_purple&utcOffset=8)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M4teusPr&theme=midnight_purple" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M4teusPr&theme=midnight_purple" width="400"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=M4teusPr&theme=midnight-purple)](https://git.io/streak-stats)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M4teusPr&theme=midnight_purple" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M4teusPr&theme=midnight_purple&utcOffset=8" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=M4teusPr&theme=midnight-purple" width="450"/> 
+</p>
+
+
+
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
