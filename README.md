@@ -16,25 +16,16 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Computer+Science;Front-End+Developer;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M4teusPr&theme=midnight_purple)
+     
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M4teusPr&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M4teusPr&theme=midnight_purple)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=zenburn"/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M4teusPr&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M4teusPr&theme=midnight_purple&utcOffset=8)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=M4teusPr&theme=midnight-purple)](https://git.io/streak-stats)
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
